@@ -1,4 +1,4 @@
-# Обектно-ориентирано програмиране
+OBJECT-ORIENTED-PROGRAMMING-PRINCIPLES-DESIGN-APPLICATIONS
 
 ##### СИ, 1 курс, 6 група, летен семестър, 2024/2025
 
