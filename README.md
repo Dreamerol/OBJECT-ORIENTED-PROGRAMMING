@@ -52,6 +52,15 @@ By completing these topics, you will:
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C++-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Paradigm-OOP-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Level-Introductory-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Semester-Summer%202024/25-purple?style=for-the-badge" />
+</p>
+
+---
+
 ##### СИ, 1 курс, 6 група, летен семестър, 2024/2025
 
 ## Теми
