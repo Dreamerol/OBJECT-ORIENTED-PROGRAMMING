@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/File-Handling-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Encapsulation-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Abstraction-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Constructor-&-Destructor-lightgrey?style=for-the-badge" />
+
 </p>
 
 ---
