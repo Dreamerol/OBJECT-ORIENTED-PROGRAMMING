@@ -55,3 +55,13 @@ By completing these topics, you will:
 - 🧠 Understand core **OOP principles**  
 - ⚡ Apply concepts in **practical coding exercises**  
 - 💼 Prepare a **portfolio-ready C++ OOP project**
+
+---
+
+##### СИ, 1 курс, 6 група, летен семестър, 2024/2025
+
+## Теми
+- **Тема 01 [[Семинар](./Seminar/Week%2001/)][[Практикум](./Practicum//Week01/)]** - Увод в обектно-ориентираното програмиране.
+- **Тема 02 [[Семинар](./Seminar/Week%2002/)][[Практикум](./Practicum//Week02/)]** - Работа с файлове.
+- **Тема 03 [[Семинар](./Seminar/Week%2003/)][[Практикум](./Practicum//Week03/)]** - Класове и обекти. Членове. Конструктор и деструктор. Капсулация и абстракция.
+  
