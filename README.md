@@ -1,4 +1,11 @@
-<h2 align="center">OBJECT-ORIENTED PROGRAMMING C++</h2>
+<h2 align="center">💻 OBJECT-ORIENTED PROGRAMMING C++ – COURSE TOPICS</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C++-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Paradigm-OOP-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Level-Introductory-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Semester-Summer%202024/25-purple?style=for-the-badge" />
+</p>
 
 
 ##### СИ, 1 курс, 6 група, летен семестър, 2024/2025
@@ -8,14 +15,6 @@
 - **Тема 02 [[Семинар](./Seminar/Week%2002/)][[Практикум](./Practicum//Week02/)]** - Работа с файлове.
 - **Тема 03 [[Семинар](./Seminar/Week%2003/)][[Практикум](./Practicum//Week03/)]** - Класове и обекти. Членове. Конструктор и деструктор. Капсулация и абстракция.
 
-<h2 align="center">💻 OBJECT-ORIENTED PROGRAMMING C++ – COURSE TOPICS</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Language-C++-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Paradigm-OOP-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Level-Introductory-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Semester-Summer%202024/25-purple?style=for-the-badge" />
-</p>
 
 
 ## 💻 Tech Skills & Tools
