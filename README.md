@@ -1,4 +1,4 @@
-<h1 align="center"><em>🌍 Object-Oriented Programming in C++ – Practical Implementation</em></h1>
+<h1 align="center">🌍 Object-Oriented Programming in C++ – Practical Implementation</h1>
 
 
 <p align="center">
