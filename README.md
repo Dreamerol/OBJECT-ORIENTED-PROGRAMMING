@@ -29,29 +29,11 @@
 
 ---
 
-
 <p align="center">
 
   <img src="https://img.shields.io/badge/Software%20Engineering-Year%201%20(Summer%202024%2F25)-1F6FEB?style=for-the-badge" />
 
 </p>
-
----
-
-<div align="center">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-FF6F00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/File%20Handling-C%2B%2B%20Streams-2E8B57?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Classes%20%26%20Objects-Core%20Concepts-8A2BE2?style=for-the-badge" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Encapsulation%20%26%20Abstraction-Architecture-FF4B4B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Constructors%20%26%20Destructors-Lifecycle-00599C?style=for-the-badge" />
-
-</div>
 
 ---
 
