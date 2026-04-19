@@ -38,12 +38,6 @@
 
 ---
 
-## 🌟 TOPICS
-
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Software%20Engineering-Year%201%20(Summer%202024%2F25)-1F6FEB?style=for-the-badge" />
 
 <br><br>
 
