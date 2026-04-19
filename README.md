@@ -1,4 +1,4 @@
-<h1 align="center">🌍💻 OBJECT-ORIENTED PROGRAMMING C++ – COURSE TOPICS</h1>
+<h1 align="center">🌍 OBJECT-ORIENTED PROGRAMMING C++ – COURSE TOPICS</h1>
 
 
 <p align="center">
