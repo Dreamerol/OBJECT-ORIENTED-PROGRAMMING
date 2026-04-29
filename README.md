@@ -3,7 +3,7 @@
 
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/147bc7cfbd4cc69f66145360ed196183cec12fab/ZZZZZZZZZZZZZZZZZZZZZZZZZOOP.png" 
+    src="https://github.com/Dreamerol/Dreamerol/blob/e052c47f57171d3bc569d8bba71f7b773d691e5d/ZOOP222%20(1).png" 
     alt="CPP" 
     style="width:100%; height:auto;" 
   />
