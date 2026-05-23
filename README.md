@@ -20,12 +20,10 @@
   
   <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Core%20CS-1F6FEB?style=for-the-badge" />
   
-  <img src="https://img.shields.io/badge/Memory%20Management-RAII%20%26%20Pointers-8A2BE2?style=for-the-badge" />
   
   <img src="https://img.shields.io/badge/STL-Containers%20%26%20Algorithms-2E8B57?style=for-the-badge" />
   
-  <img src="https://img.shields.io/badge/System%20Thinking-Problem%20Solving-FF4B4B?style=for-the-badge" />
-
+ 
 </p>
 
 ---
