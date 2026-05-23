@@ -22,17 +22,13 @@
   
   
   <img src="https://img.shields.io/badge/STL-Containers%20%26%20Algorithms-2E8B57?style=for-the-badge" />
+
+   <img src="https://img.shields.io/badge/Software%20Engineering-Year%201%20(Summer%202024%2F25)-1F6FEB?style=for-the-badge" />
   
  
 </p>
 
----
 
-<p align="center">
-
-  <img src="https://img.shields.io/badge/Software%20Engineering-Year%201%20(Summer%202024%2F25)-1F6FEB?style=for-the-badge" />
-
-</p>
 
 ---
 
