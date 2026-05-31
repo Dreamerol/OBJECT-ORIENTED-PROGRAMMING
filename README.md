@@ -14,12 +14,12 @@
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/C%2B%2B-Advanced-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Object--Oriented%20Design-Architecture-FF6F00?style=for-the-badge" />  
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Core%20CS-1F6FEB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/STL-Containers%20%26%20Algorithms-2E8B57?style=for-the-badge" />
- <img src="https://img.shields.io/badge/Software%20Engineering-Year%201%20(Summer%202024%2F25)-1F6FEB?style=for-the-badge" />
-   
+  <img src="https://img.shields.io/badge/C%2B%2B-Advanced-2B4C7E?style=for-the-badge&logo=c%2B%2B&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Object--Oriented%20Design-Architecture-3B5A86?style=for-the-badge" />  
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Core%20CS-4A6890?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STL-Containers%20%26%20Algorithms-59769A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software%20Engineering-Year%201%20(Summer%202024%2F25)-38567F?style=for-the-badge" />
+
 </p>
 
 
