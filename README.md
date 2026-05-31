@@ -27,7 +27,8 @@
 ## 🌟 TOPICS
 
 - **1️⃣ TOPIC 01 [[SEMINAR](./Seminar/Week%2001/)][[PRACTICUM](./Practicum/Week01/)]** – 💡 **INTRODUCTION TO OBJECT-ORIENTED PROGRAMMING**  
-  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/OOP-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/C%2B%2B-Programming-2B4C7E?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/OOP-Object--Oriented%20Design-3B5A86?style=for-the-badge" />
 
 - **2️⃣ TOPIC 02 [[SEMINAR](./Seminar/Week%2002/)][[PRACTICUM](./Practicum/Week02/)]** – 📂 **FILE HANDLING IN C++**  
   <img src="https://img.shields.io/badge/FILES-red?style=for-the-badge" /> <img src="https://img.shields.io/badge/I/O-green?style=for-the-badge" />
