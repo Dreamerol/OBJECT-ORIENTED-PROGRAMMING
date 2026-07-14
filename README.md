@@ -49,20 +49,6 @@
 
 ---
 
-
-<p align="center">
-
-  <img src="https://img.shields.io/badge/C%2B%2B-Advanced-1F3552?style=for-the-badge&logo=c%2B%2B&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Object--Oriented%20Design-Architecture-294566?style=for-the-badge" />  
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Core%20CS-345478?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/STL-Containers%20%26%20Algorithms-40638A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Software%20Engineering-Year%201%20(Summer%202024%2F25)-243D5D?style=for-the-badge" />
-
-</p>
-
-
----
-
 ### 💻 Tech Skills & Tools Applied
 
 - C++ fundamentals
@@ -92,23 +78,6 @@
 - **Тема 03 [[Семинар](./Seminar/Week%2003/)][[Практикум](./Practicum//Week03/)]** - Класове и обекти. Членове. Конструктор и деструктор. Капсулация и абстракция.
 
 
-
-
----
-
-
-
-
-
-<p align="center">
-
-  <img src="https://img.shields.io/badge/C%2B%2B-Advanced-1F3552?style=for-the-badge&logo=c%2B%2B&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Object--Oriented%20Design-Architecture-294566?style=for-the-badge" />  
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Core%20CS-345478?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/STL-Containers%20%26%20Algorithms-40638A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Software%20Engineering-Year%201%20(Summer%202024%2F25)-243D5D?style=for-the-badge" />
-
-</p>
 
 
 
