@@ -8,21 +8,47 @@
 </p>
 
 
+
+
+
+
+
+
+
+
+<div align="center">
+
+<a href="https://github.com/Dreamerol/CARDFOLIO">
+
+<img
+src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECH%20STACK%20333.png"
+width="100%"
+alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
+/>
+
+</a>
+
+</div>
+
+
+
+
+
+
 <br>
 
-<p align="center">
-
-  <img src="https://img.shields.io/badge/C%2B%2B-Advanced-1F3552?style=for-the-badge&logo=c%2B%2B&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Object--Oriented%20Design-Architecture-294566?style=for-the-badge" />  
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Core%20CS-345478?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/STL-Containers%20%26%20Algorithms-40638A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Software%20Engineering-Year%201%20(Summer%202024%2F25)-243D5D?style=for-the-badge" />
-
-</p>
 
 
 
----
+
+
+
+
+
+
+
+
+
 
 ## 🌟 TOPICS
 
