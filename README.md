@@ -1,7 +1,10 @@
 <h1 align="center">🌍 Object-Oriented Programming in C++ – Practical Implementation</h1>
 
 
+
 <br>
+
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/CPP.jpg" width="100%" />
@@ -12,7 +15,8 @@
 
 
 
-
+<br>
+<br>
 <br>
 
 
