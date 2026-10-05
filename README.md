@@ -1,31 +1,28 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h1 align="center">🌍 Object-Oriented Programming in C++ – Practical Implementation</h1>
-
+<h1 align="center">
+  🌍 <a href="https://github.com/Dreamerol/CARDFOLIO"
+     title="Object-Oriented Programming in C++ — CARDFOLIO • Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • SMG (СМГ) • Sofia • AI Engineer">
+    <b>Object-Oriented Programming in C++ – Practical Implementation</b>
+  </a>
+</h1>
 
 
 <br>
 
 
+<a href="https://github.com/Dreamerol/AI-STUDIO" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/CPP.jpg"
+    alt="Object-Oriented Programming in C++ : Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • SMG (СМГ) • Sofia • AI Engineer • Software Engineer""
+    style="width: 100%; height: auto; display: block;"
+  >
+</a>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/CPP.jpg" width="100%" />
-</p>
+
+
+
 
 
 
@@ -38,10 +35,6 @@
 <br>
 
 <br>
-
-
-
-
 
 
 
