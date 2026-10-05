@@ -4,7 +4,7 @@
 <h1 align="center">
   🌍 <a href="https://github.com/Dreamerol/CARDFOLIO"
      title="Object-Oriented Programming in C++ — CARDFOLIO • Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • SMG (СМГ) • Sofia • AI Engineer">
-    <b>Object-Oriented Programming in C++ – Practical Implementation</b>
+    <b>Object-Oriented Programming in C++</b>
   </a>
 </h1>
 
